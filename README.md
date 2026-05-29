@@ -39,6 +39,17 @@ Motivated Informatics undergraduate at Universitas Diponegoro with hands-on expe
 
 ## Featured Projects
 
+### [lstm-hids](https://github.com/ElNu-mp4/lstm-hids)
+> TensorFlow replication of LSTM-based Host Intrusion Detection System
+
+Replication of *"LSTM-Based System-Call Language Modeling and Robust Ensemble Method for Designing Host-Based Intrusion Detection Systems"* (Kim et al., SNU, 2016). Treats OS system-call sequences as a language and learns normal behavior via LSTM language modeling; anomalies are flagged by anomaly score thresholding.
+
+**Highlights:** LSTM language model · Leaky ReLU ensemble · kNN/k-Means baseline classifiers · benchmarked on ADFA-LD, KDD98, UNM · cross-system portability evaluation
+
+`Python` `TensorFlow/Keras` `Machine Learning` `Cybersecurity`
+
+---
+
 ### [docforge](https://github.com/ElNu-mp4/docforge)
 > Metadata analysis & copy-paste detection for Microsoft Office files
 
@@ -72,36 +83,12 @@ A Soroban smart contract that lets two addresses form a verifiable on-chain hand
 
 ---
 
-### [lstm-hids](https://github.com/ElNu-mp4/lstm-hids)
-> TensorFlow replication of LSTM-based Host Intrusion Detection System
-
-Replication of *"LSTM-Based System-Call Language Modeling and Robust Ensemble Method for Designing Host-Based Intrusion Detection Systems"* (Kim et al., SNU, 2016). Treats OS system-call sequences as a language and learns normal behavior via LSTM language modeling; anomalies are flagged by anomaly score thresholding.
-
-**Highlights:** LSTM language model · Leaky ReLU ensemble · kNN/k-Means baseline classifiers · benchmarked on ADFA-LD, KDD98, UNM · cross-system portability evaluation
-
-`Python` `TensorFlow/Keras` `Machine Learning` `Cybersecurity`
-
----
-
 ## Internship
 
 **Web Developer Intern — Dinas Kearsipan dan Perpustakaan Provinsi Jawa Tengah** *(2026)*
 - Developed a full-stack book collection data management system using CodeIgniter (PHP)
 - Built frontend and backend features for book inventory data entry, search, and reporting
 - Provided on-site IT support throughout the internship period
-
----
-
-## Leadership & Organizations
-
-| Role | Event / Org | Year |
-|---|---|---|
-| Supervisor, Communications & Information Bureau | BEM FSM Universitas Diponegoro | 2024 |
-| Head of Logistics Division | OSMOS (Orientasi Saintis Muda) | 2025 |
-| Head of Sponsorship Division | SECTION (Science Economic Competition) 3.0 | 2025 |
-| Head of Safety & Health Division (K3) | Dekan Cup | 2023 |
-| Intern, Organizational Quality Assurance Team | BEM FSM | 2023 |
-| Sponsorship Member | SECTION (Science Economic Competition) 2.0 | 2023 |
 
 ---
 
