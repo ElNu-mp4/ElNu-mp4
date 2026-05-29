@@ -62,7 +62,7 @@ Motivated Informatics undergraduate at Universitas Diponegoro with hands-on expe
 
 ## Featured Projects
 
-### [lstm-hids](https://github.com/ElNu-mp4/lstm-hids)
+### [lstm-hids](https://github.com/ElNu-mp4/LSTM-Based-Language-Modeling-for-HIDS)
 > TensorFlow replication of LSTM-based Host Intrusion Detection System
 
 Replication of *"LSTM-Based System-Call Language Modeling and Robust Ensemble Method for Designing Host-Based Intrusion Detection Systems"* (Kim et al., SNU, 2016). Treats OS system-call sequences as a language and learns normal behavior via LSTM language modeling; anomalies are flagged by anomaly score thresholding.
