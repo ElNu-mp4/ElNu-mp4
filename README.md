@@ -131,17 +131,6 @@ Contract ID: `CAICOU5RLXVNITJOCMYT6TGW4PBUKIX46BJZEMN7UZESJO4AYMZAUVWU`
 
 ---
 
-## GitHub Stats
- 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElNu-mp4&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElNu-mp4&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
- 
-</div>
-
----
-
 <div align="center">
 <sub>Always open to interesting problems in web development, cybersecurity, and distributed systems.</sub>
 </div>
